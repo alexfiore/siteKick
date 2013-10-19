@@ -40,3 +40,6 @@ group :test do
   gem 'launchy'
   gem 'shoulda-callback-matchers', "=0.2.0"
 end
+
+ruby '2.0.0'
+
